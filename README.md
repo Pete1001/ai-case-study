@@ -1,6 +1,6 @@
 # ai-case-study
 Module 1 Challenge by Pete Link
-s
+
 # **A Case of Anthropic; where Claude excels**
 
 ## Overview and Origin
